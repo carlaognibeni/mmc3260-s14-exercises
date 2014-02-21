@@ -2,8 +2,10 @@
 
 /* Typically you put all of your general element styles at the top. */
 
+
+
 body {
-	background-color: #eeeeee;
+	background-color: #6EC5CB;
 }
 
 h1 {
@@ -25,7 +27,16 @@ img {
 
 /* Container or module styles probably come next. */
 
-header {
+header h1 {
+  
+    font-family: century gothic, helvetica, sans-serif;
+    font-size: 65px;
+    padding: 0px;
+ }
+
+header h3 {
+    font-family:monospace; 
+    font-size: 25px;
 
 }
 
